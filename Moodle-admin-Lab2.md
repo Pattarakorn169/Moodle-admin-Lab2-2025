@@ -505,15 +505,19 @@ Grade to pass: 60%
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
 ```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
+<img width="1155" height="655" alt="image" src="https://github.com/user-attachments/assets/9624bfcf-3410-4d81-bc8d-8e15de1b76fc" />
+
 ```
 
 
 ## คำถามท้ายการทดลอง
 
 **1.** อธิบายความแตกต่างระหว่าง Category และ Cohort 
-
+Category = จัด ที่อยู่ของวิชา
+Cohort = จัด คนที่จะเข้าเรียน
 **2.** เหตุใดควรใช้ Cohort sync 
-
+รองรับระบบใหญ่
 **3.** Best practices สำหรับ Category structure คือแบบใด
-
+Category = โครงสร้างวิชา
+Cohort = โครงสร้างผู้เรียน
+โครงสร้างดี = ระบบดูแลง่าย โดยเฉพาะใน Moodle
